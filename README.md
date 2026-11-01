@@ -4,3 +4,4 @@ Comme son nom l'indique, elle structure l'évaluation en deux voies, l'une ouver
 
 # Un module d'organisation
 L'outil proposé permet de structurer une séquence d'apprentissage en combinant les deux voies. Il s'appuie sur le référentiel UNESCO Apprenant pour la voie 2, et intègre des dimensions liées à la littératie de l'IA comme l'éthique et la métacognition.
+L'activité de voie 2 a été préparé en amont, elle peut toutefois être éditée dans l'amorce.
